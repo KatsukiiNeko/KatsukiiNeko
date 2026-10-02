@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://katsukiineko.vercel.app/"><img src="https://img.shields.io/badge/portfolio-katsukiineko.vercel.app-1e2327?style=for-the-badge&labelColor=1e2327&color=7c8b94" alt="portfolio" /></a>
+  <a href="https://katsukiineko.vercel.app/"><img src="https://img.shields.io/badge/portfolio-katsukiineko.vercel.app-1e2327?style=for-the-badge&labelColor=1e2327&color=9b5cff" alt="Personal portfolio" /></a>
 </p>
 
 ---
