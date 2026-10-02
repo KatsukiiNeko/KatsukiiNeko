@@ -18,15 +18,13 @@ const neko = {
   name: "Neko",
   from: "Vietnam",
   role: "front-end junior",
-  studying: ["front-end", "AI engineering (maybe)"],
-  temperament: "cautious introvert",
+  studying: ["front-end", "AI engineering student"],
   codeStyle: "readable first, clever never",
   currentlyBuilding: "Basalt",
-  funFact: "i write better feelings in English than in Vietnamese, i guess",
 };
 ```
 
-i like code that's easy to follow. if I can't read my own function a week later, I think it's probably the function's fault, not mine. so I try to keep things small, named clearly, and boring in a good way.
+My name is Nguyen Phuong Minh Tan, and I am a College student from Vietnam with a passion for technology and creativity. As a junior Python and web developer, I create efficient and innovative solutions. I also have experience as a graphic designer, video editor, and colorist, blending technical and artistic skills into my projects
 
 ---
 
@@ -57,9 +55,9 @@ i like code that's easy to follow. if I can't read my own function a week later,
 
 ### 🌱 right now
 
-- 🔨 building and tidying **Basalt**
-- 📖 learning more about AI engineering, slowly
-- ✍️ writing on the side, in both English and Vietnamese
+- 🔨 building and tidying **Basalt**.
+- 📖 learning more about AI engineering, slowly.
+- 📈 Trying to be better every day.
 
 ---
 
