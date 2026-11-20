@@ -1,8 +1,9 @@
 # hi, i'm Neko 🐾
 
 <p align="center">
-  <i>frontend developer in progress · AI engineering student · iOS developer in the making</i><br/>
-  <sub>quiet by nature, loud only in my commits.</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=9B5CFF&center=true&vCenter=true&width=560&height=45&lines=frontend+developer;AI+engineering+student;iOS+developer" alt="Typing animation: frontend developer, AI engineering student, iOS developer" />
+  <br/>
+  <sub>"Adapt is what you do best, ain't it?"</sub>
 </p>
 
 <p align="center">
@@ -12,9 +13,7 @@
   <a href="https://github.com/KatsukiiNeko">
     <img src="https://img.shields.io/badge/GitHub-KatsukiiNeko-1e2327?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub profile" />
   </a>
-</p>
 
----
 
 ### 🪨 about me
 
@@ -35,7 +34,7 @@ const neko = {
     "Algorithms",
     "Creative Technology",
   ],
-  philosophy: "Readable first, clever never.",
+  philosophy: "Adapt fast, ship readable.",
   currentlyBuilding: ["Basalt", "Monochrome iOS Native"],
 };
 ```
@@ -95,16 +94,41 @@ I'm still learning, experimenting, breaking things, and figuring out better ways
 
 ---
 
-### 📊 GitHub statistics
+### 🔥 contribution heatmap
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KatsukiiNeko/KatsukiiNeko/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KatsukiiNeko/KatsukiiNeko/output/github-snake.svg" />
+    <img alt="Contribution heatmap with a snake eating the squares" src="https://raw.githubusercontent.com/KatsukiiNeko/KatsukiiNeko/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>every square is a day i showed up. the snake eats them all anyway.</sub>
+</p>
+
+---
+
+### 📊 github stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=KatsukiiNeko&show_icons=true&hide_border=true&bg_color=1e2327&title_color=9b5cff&icon_color=9b5cff&text_color=c9d1d9&rank_icon=github" alt="Neko's GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatsukiiNeko&layout=compact&hide_border=true&bg_color=1e2327&title_color=9b5cff&text_color=c9d1d9" alt="Most used programming languages" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KatsukiiNeko&hide_border=true&background=1e2327&stroke=3b2a66&ring=9b5cff&fire=9b5cff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=9b5cff&sideLabels=c9d1d9&dates=8b949e" alt="Neko's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KatsukiiNeko&bg_color=1e2327&color=c9d1d9&title_color=9b5cff&line=9b5cff&point=ffffff&area=true&area_color=9b5cff&hide_border=true&custom_title=last%2031%20days" alt="Neko's GitHub activity graph" />
+</p>
+
 ---
 
 <p align="center">
   <sub>still learning, still building, still figuring things out.</sub><br/>
+  <sub>adapt is what i do best, ain't it?</sub><br/>
   <sub>thanks for stopping by. i'm a bit shy, but I do reply. 🐱</sub>
 </p>
