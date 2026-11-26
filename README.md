@@ -1,94 +1,157 @@
-## Learning log
+<h1 align="center">learning log 🐾</h1>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=katsukiineko&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F193069730%3Fu%3Dc995663f5f8d13aa8a5dcd406d3c060c5fe561aa%26v%3D4" alt="katsukiineko hero visual" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=9B5CFF&center=true&vCenter=true&width=560&height=45&lines=frontend+developer+in+progress;AI+engineering+student;iOS+developer+in+the+making;adapt+fast,+ship+readable" alt="Typing animation: frontend developer in progress, AI engineering student, iOS developer in the making, adapt fast, ship readable" />
 </p>
 
-**katsukiineko** · Frontend or full-stack engineer
-
-## Currently learning
+<p align="center">
+  <a href="https://katsukiineko.vercel.app/">
+    <img src="https://img.shields.io/badge/portfolio-katsukiineko.vercel.app-1e2327?style=for-the-badge&labelColor=1e2327&color=9b5cff" alt="Personal portfolio" />
+  </a>
+  <a href="https://github.com/KatsukiiNeko">
+    <img src="https://img.shields.io/badge/GitHub-KatsukiiNeko-1e2327?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub profile" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=KatsukiiNeko&label=views&color=9b5cff&style=for-the-badge" alt="Profile views" />
+</p>
 
 > just a small front-end junior and an AI engineering student
 
-**Learning next**
+---
 
-- JavaScript
-- C#
-- CSS
+## 📚 currently learning
 
-🌐 [Website](katsukiineko.vercel.app/) · 👥 **3** followers · **1** following
+| Track | What I'm working on |
+| :--- | :--- |
+| **Native iOS** | Swift and SwiftUI, through [Monochrome iOS Native](https://github.com/KatsukiiNeko/monochrome-ios-native): Now Playing, Lock Screen controls, background audio, and other Apple APIs. |
+| **AI engineering** | Machine learning, algorithms, and how modern AI systems work. |
+| **Software engineering** | Architecture and maintainability, mostly through [Basalt](https://github.com/KatsukiiNeko/Basalt). |
 
-## Tools I’m practicing
+---
 
-- **JavaScript** · 38%
-- **C#** · 25%
-- **CSS** · 13%
-- **ShaderLab** · 12%
-- **TypeScript** · 5%
-- **HTML** · 2%
-- **Python** · 2%
-- **HLSL** · 2%
+## 🧰 tools i use
 
-## Projects in progress
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-1e2327?style=flat-square&logo=html5&logoColor=e34f26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1e2327?style=flat-square&logo=css3&logoColor=1572b6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-1e2327?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-1e2327?style=flat-square&logo=python&logoColor=3776ab" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-1e2327?style=flat-square&logo=csharp&logoColor=9b4f96" alt="C#" />
+  <img src="https://img.shields.io/badge/Swift-1e2327?style=flat-square&logo=swift&logoColor=f05138" alt="Swift" />
+</p>
+
+**Frameworks & platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/React-1e2327?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-1e2327?style=flat-square&logo=vite&logoColor=646cff" alt="Vite" />
+  <img src="https://img.shields.io/badge/SwiftUI-1e2327?style=flat-square&logo=swift&logoColor=f05138" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/Unity-1e2327?style=flat-square&logo=unity&logoColor=ffffff" alt="Unity" />
+  <img src="https://img.shields.io/badge/Git-1e2327?style=flat-square&logo=git&logoColor=f05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-1e2327?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-1e2327?style=flat-square&logo=vercel&logoColor=ffffff" alt="Vercel" />
+  <img src="https://img.shields.io/badge/iOS-1e2327?style=flat-square&logo=apple&logoColor=ffffff" alt="iOS" />
+</p>
+
+---
+
+## 🚧 projects in progress
 
 <details>
-<summary><b>RPG_game_remaster</b> · C#</summary>
+<summary><b>Basalt</b> · JavaScript · React + Vite</summary>
 
-A selected project from this GitHub profile.<br/>
-⭐ 0 · 🍴 0
+<br/>
 
-[View repository](https://github.com/KatsukiiNeko/RPG_game_remaster)
+A secure, offline-first personal finance PWA, recoded cleanly from Money Vault. Data is encrypted on-device with AES-GCM-256 using a key derived from your password, with no network calls and no tracking.
+
+<img src="https://img.shields.io/github/stars/KatsukiiNeko/Basalt?style=flat-square&labelColor=1e2327&color=9b5cff" alt="Basalt stars" />
+
+[View repository](https://github.com/KatsukiiNeko/Basalt) · [Live demo](https://basalt-finance.vercel.app/)
 </details>
 
 <details>
-<summary><b>Basalt</b> · JavaScript</summary>
+<summary><b>Monochrome iOS Native</b> · Swift · SwiftUI</summary>
 
-Basalt is a clean recode of the Money Vault financial tracker. This fork strips out unnecessary complexity, reorganizes the logic, and prioritizes readable, well-structured code that's easy to follow and modify. It's a proper active project, not a testing ground.<br/>
-⭐ 5 · 🍴 0
+<br/>
 
-[View repository](https://github.com/KatsukiiNeko/Basalt)
-</details>
+A native SwiftUI music player inspired by the Monochrome web app. It plays audio imported from Files and streams lossless FLAC from the public catalog, with a queue, favorites, play history, an offline audio cache, and Lock Screen controls. No third-party Swift packages.
 
-<details>
-<summary><b>monochrome-ios-native</b> · Swift</summary>
-
-yet another IOS native build for Monochrome XD<br/>
-⭐ 4 · 🍴 0
+<img src="https://img.shields.io/github/stars/KatsukiiNeko/monochrome-ios-native?style=flat-square&labelColor=1e2327&color=9b5cff" alt="Monochrome iOS Native stars" />
 
 [View repository](https://github.com/KatsukiiNeko/monochrome-ios-native)
 </details>
 
 <details>
-<summary><b>Ascii-Flower</b> · open source</summary>
+<summary><b>Flowr.TUI</b> (Ascii-Flower) · Python</summary>
 
-A selected project from this GitHub profile.<br/>
-⭐ 0 · 🍴 0
+<br/>
+
+An animated, interactive ASCII flower bouquet for the terminal. Mix ten flower varieties, pick a colour theme, tune the detail from 32 to 256 samples (ASCII, half-block or braille), and keep your settings between runs. Standard library only, derived from Alish Sharma's Ascii-Flower-Bouquet (MIT).
+
+<img src="https://img.shields.io/github/stars/KatsukiiNeko/Ascii-Flower?style=flat-square&labelColor=1e2327&color=9b5cff" alt="Ascii-Flower stars" />
 
 [View repository](https://github.com/KatsukiiNeko/Ascii-Flower)
 </details>
 
-## Progress so far
+<details>
+<summary><b>RPG_game_remaster</b> · C# · Unity</summary>
 
-- **Current streak:** 1 days
-- **Longest streak:** 6 days
-- **Active days:** 40 days
+<br/>
+
+A C# remaster of an RPG game, built as a personal project.
+
+<img src="https://img.shields.io/github/stars/KatsukiiNeko/RPG_game_remaster?style=flat-square&labelColor=1e2327&color=9b5cff" alt="RPG_game_remaster stars" />
+
+[View repository](https://github.com/KatsukiiNeko/RPG_game_remaster)
+</details>
+
+**Also on my GitHub:** [Portfolio-v2](https://github.com/KatsukiiNeko/Portfolio-v2), my personal portfolio 
+
+---
+
+## 📈 progress so far
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=katsukiineko&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F193069730%3Fu%3Dc995663f5f8d13aa8a5dcd406d3c060c5fe561aa%26v%3D4" alt="katsukiineko stats visual" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KatsukiiNeko&show_icons=true&hide_border=true&bg_color=1e2327&title_color=9b5cff&icon_color=9b5cff&text_color=c9d1d9&rank_icon=github" alt="Neko's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatsukiiNeko&layout=compact&hide_border=true&bg_color=1e2327&title_color=9b5cff&text_color=c9d1d9&hide=ShaderLab,HLSL" alt="Most used programming languages" />
 </p>
-
-## Learning streak
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=katsukiineko&theme=neon" alt="katsukiineko contribution activity" />
+  <img src="https://streak-stats.demolab.com/?user=KatsukiiNeko&hide_border=true&background=1e2327&stroke=3b2a66&ring=9b5cff&fire=9b5cff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=9b5cff&sideLabels=c9d1d9&dates=8b949e" alt="Neko's GitHub streak" />
 </p>
 
-## Say hello
+---
+
+## 🔥 learning streak
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=katsukiineko&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F193069730%3Fu%3Dc995663f5f8d13aa8a5dcd406d3c060c5fe561aa%26v%3D4" alt="katsukiineko social visual" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KatsukiiNeko/KatsukiiNeko/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KatsukiiNeko/KatsukiiNeko/output/github-snake.svg" />
+    <img alt="Contribution heatmap with a snake eating the squares" src="https://raw.githubusercontent.com/KatsukiiNeko/KatsukiiNeko/output/github-snake.svg" />
+  </picture>
 </p>
 
-<a href="https://github.com/katsukiineko">GitHub</a> · <a href="https://katsukiineko.vercel.app/">Website</a>
+<p align="center">
+  <sub>every square is a day i showed up. the snake eats them all anyway.</sub>
+</p>
 
-<p align="center"><sub>katsukiineko · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+---
+
+## 👋 say hello
+
+<p align="center">
+  <a href="https://katsukiineko.vercel.app/">
+    <img src="https://img.shields.io/badge/website-katsukiineko.vercel.app-1e2327?style=for-the-badge&labelColor=1e2327&color=9b5cff" alt="Website" />
+  </a>
+  <a href="https://github.com/KatsukiiNeko">
+    <img src="https://img.shields.io/badge/GitHub-KatsukiiNeko-1e2327?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>still learning, still building, still figuring things out.</sub><br/>
+  <sub>adapt is what i do best, ain't it?</sub><br/>
+  <sub>i'm a bit shy, but I do reply. 🐱</sub>
+</p>
